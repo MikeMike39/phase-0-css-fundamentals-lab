@@ -1,5 +1,36 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+.Page {
+  left: 65%;
+    
+    text-align: center;
+​
+}
+.Page nav{
+  padding-left: 50%;
+  padding-right: 50%;
+}
+.Page nav a{
+  background-color: grey;
+}
+​
+.Page p{
+  margin-left: 50%;
+  margin-right: 50%;
+  text-align: center;
+  font-size: small;
+}
+#details
+{overflow: auto;
+  
+  background: red;
+ 
+}
+#details div{
+  
+  float:left;
+   
+  margin-left:10%;
+}
+.a, .b, .c, .d {
+ 
+​
 }
